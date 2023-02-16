@@ -46,3 +46,11 @@ Claims collection as titles of tests at <https://github.com/tastejs/todomvc/tree
         ✓ should allow me to display all items
         ✓ should highlight the currently applied filter
 ```
+
+# CSS selectors
+
+#id
+.class
+tag
+[attribute='value']
+[part_of_attribute_value_contains*='value']
